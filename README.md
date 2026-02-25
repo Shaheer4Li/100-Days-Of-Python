@@ -9,3 +9,8 @@
 <h3 style="color:#FF6F00">📅 Day 07 / 100</h3> <p>  today I created Hangman game. maybe you have played and even created this game using python is past</p>
 
 <h1 style="color:#00E676">🧠 Explanation</h1> <p> This project is also for strenthning my skills in conditonals and strings. during creating this I have learned a quite alot first of all I learned about multi line statement prints and there use in printing ascii art and also I have learned importance of indentation because I stuck several time here due to just indentation. Because indentation Mistakes are quite tricky to find out sometimes yourcode doesnot even send indentation error but your program just working abnormally so you have to find that bug youself and that was seriously hard,So keep track where you put what .</p>
+
+
+<h3 style="color:#FF6F00">📅 Day 08 / 100</h3> <p> I Implemented ceaser cipher encrypter and decrypter</p>
+
+<h1 style="color:#00E676">🧠 Explanation</h1> <p> If you are not familliar who ceaser is and what ceaser cipher is then I am giving links to wikipedia https://en.wikipedia.org/wiki/Caesar_cipher .......https://en.wikipedia.org/wiki/Julius_Caesar so that you can get idea what i tried to achieve. It is also not too complex program and the way i have done it is very very basic but still it kinda help in strengthing my concept of functions in java specially functions with arguement. there is obviously better approaches to implement this progaram but for practice current one is best. </p>
