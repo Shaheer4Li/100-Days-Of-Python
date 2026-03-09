@@ -38,3 +38,13 @@
 <h3 style="color:#FF6F00">📅 Day 14 / 100</h3> <p> Higher or lower game</p>
 
 <h1 style="color:#00E676">🧠 Explanation</h1> <p> If you have never played higer or lower game so you can get idea by checking this link https://www.higherlowergame.com/ . the project was created in course was based on highest instagram followers count but to give it my touch i changed concept to Chances of survival under different circumstances, to give it some touch of me. But guess what when I checked video after completion of code instructor logic was completely different from me but still results the same so its win win situatiion </p>
+
+<h3 style="color:#FF6F00">📅 Day 15 / 100</h3> <p> Coffee Machine Project</p>
+
+<h1 style="color:#00E676">🧠 Explanation</h1> <p>So from Now on I am gonna create sperate folders for each project as the codes get more complex becuase today is the start of Intermediate section. now, for today's project requirment are given in pdf file Which i have left in day 15 folder that you can access. so this project kinda remind me of my first year of university where we used to create this type of projects and feels like we are literally creating something. but for now this type of programmes feels simple to implement but again they are nessecery for practice and gaining confidence </p>
+
+<h3 style="color:#FF6F00">📅 Day 16 / 100</h3> <p> Coffe machine Using OOP</p>
+
+<h1 style="color:#00E676">🧠 Explanation</h1> <p> So in today's project we have learned about OOP, not like we have studied at university where we learnt oop by creating classes, objects etc ,but in a way that we can access libraries with great understanding of OOP. so, for this project all files and code have been already provided except main file. so we have create it and use all other files as modules to complete same project coffe machine.So this project it simple and intresting. but I Just wanna say one thing This is fastest way to Learn Object oriented Programming beleieve me or not. </p>
+
+
