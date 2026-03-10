@@ -47,4 +47,9 @@
 
 <h1 style="color:#00E676">🧠 Explanation</h1> <p> So in today's project we have learned about OOP, not like we have studied at university where we learnt oop by creating classes, objects etc ,but in a way that we can access libraries with great understanding of OOP. so, for this project all files and code have been already provided except main file. so we have create it and use all other files as modules to complete same project coffe machine.So this project it simple and intresting. but I Just wanna say one thing This is fastest way to Learn Object oriented Programming beleieve me or not. </p>
 
+<h3 style="color:#FF6F00">📅 Day 17 / 100</h3> <p> Quiz game OOP</p>
+
+<h1 style="color:#00E676">🧠 Explanation</h1> <p> Today I practiced OOPs concept such as contructors functions etc in OOPS by creating this game of Quiz where you have to answer in true or false. </p>
+
+
 
