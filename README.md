@@ -51,5 +51,8 @@
 
 <h1 style="color:#00E676">🧠 Explanation</h1> <p> Today I practiced OOPs concept such as contructors functions etc in OOPS by creating this game of Quiz where you have to answer in true or false. </p>
 
+<h3 style="color:#FF6F00">📅 Day 18 / 100</h3> <p>Hist Painting project</p>
+
+<h1 style="color:#00E676">🧠 Explanation</h1> <p> If you dont know who hist is Then congrats my friend we are in same ship. to give you the idea about what we tried to achieve here I added image named Hist painting in project folder.the project is basically about generating painting with dots of different color and we have to extract colors of code from image , so today i completed some problems and after that THis is my final project for todays learning python GUI using turtle.keeping my style today I also did not followed course solution video instead built this from scratch but in the End when I compare both codes they are completely different but good thing is that both(me and instructor) used random coding style no specific steps so my code is also good. </p>
 
 
