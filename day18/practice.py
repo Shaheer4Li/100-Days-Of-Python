@@ -29,5 +29,4 @@ for i in range(10):
         timmy.dot(20,random.choice(pallete))
         timmy.penup()
         timmy.forward(55)
-        
-
+screen.exitonclick()
