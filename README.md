@@ -55,11 +55,16 @@
 
 <h1 style="color:#00E676">🧠 Explanation</h1> <p> If you dont know who hist is Then congrats my friend we are in same ship. to give you the idea about what we tried to achieve here I added image named Hist painting in project folder.the project is basically about generating painting with dots of different color and we have to extract colors of code from image , so today i completed some problems and after that THis is my final project for todays learning python GUI using turtle.keeping my style today I also did not followed course solution video instead built this from scratch but in the End when I compare both codes they are completely different but good thing is that both(me and instructor) used random coding style no specific steps so my code is also good. </p>
 
-<h3 style="color:#FF6F00">📅 Day 18 / 100</h3> <p>Turtle Racing and Etch_A_Sketch</p>
+<h3 style="color:#FF6F00">📅 Day 19 / 100</h3> <p>Turtle Racing and Etch_A_Sketch</p>
 
 <h1 style="color:#00E676">🧠 Explanation</h1> <p> So today I have created two projects 
   1. Etch_ A_Sketch: Don't know what it is google it. it is simple to build using turtle library but main goal is to get used to event listners
   2. Turtle race: So this Game is basically turtle version of horse race betting. I have played this type of game in GTA san andreas where this is miny game to gamble. so this project is simple to implement but it help in learning turtle: taking text inputs, cordinate sytems and in general :Multiple Objects of same class and higher order function . mine today's code is kinda similar to instructor thats because maybe we both followed best practice to do this. but Background image Idea is mine......
   . </p>
+  <h3 style="color:#FF6F00">📅 Day 20 / 100</h3> <p> Snake Game</p></p>
+
+<h1 style="color:#00E676">🧠 Explanation</h1> <p> So today I started creating Snake Game but only half of it. it is bit of complex project thats why divided it into two days.
+  . </p>
+
 
 
