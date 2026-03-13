@@ -65,6 +65,10 @@
 
 <h1 style="color:#00E676">🧠 Explanation</h1> <p> So today I started creating Snake Game but only half of it. it is bit of complex project thats why divided it into two days.
   . </p>
+  <h3 style="color:#FF6F00">📅 Day 21 / 100</h3> <p> Snake Game</p></p>
+
+<h1 style="color:#00E676">🧠 Explanation</h1> <p> So today Is day two of creating snake game. and this game is storm of concepts its full fledge project that teach you alot as well of strenthning your concepts. I have already created zombie game that is modern version of this game but that was quite a time ago, so this programm was complete new experience and help me learn a alot.
+  . </p>
 
 
 
